@@ -1,0 +1,30 @@
+{
+  "os": "Linux-6.11.3-200.fc40.x86_64-x86_64-with-glibc2.39",
+  "python": "3.12.6",
+  "startedAt": "2024-11-20T11:04:02.764989Z",
+  "program": "ML/IML-project/Main.ipynb",
+  "git": {
+    "remote": "git@github.com:sosnowskiMac/IML-project.git",
+    "commit": "05537d4613e98a7f40ff31f2799d0bd6e8eb3d4f"
+  },
+  "email": "imlproject79@gmail.com",
+  "root": "/home/SOS/ML/IML-project",
+  "host": "fedora",
+  "username": "SOS",
+  "executable": "/usr/bin/python3",
+  "cpu_count": 8,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "341527494656",
+      "used": "126088744960"
+    }
+  },
+  "memory": {
+    "total": "16438206464"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 12
+  }
+}
